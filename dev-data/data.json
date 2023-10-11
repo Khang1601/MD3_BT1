@@ -1,0 +1,24 @@
+{
+    "rikkeiFarm": [
+        {
+            "id": 1,
+            "name": "Goat and Sheep cheese",
+            "price": "5"
+        },
+        {
+            "id": 2,
+            "name": "Apollo Broccoli",
+            "price": "5.5"
+        },
+        {
+            "id": 3,
+            "name": "Baby Carrots",
+            "price": "3"
+        },
+        {
+            "id": 4,
+            "name": "Sweet Corncobs",
+            "price": "2"
+        }
+    ]
+}
